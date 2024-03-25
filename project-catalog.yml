@@ -2,7 +2,7 @@
 project-repositories:
 - name: "ch01-ask"
   description: "Spring AI in Action's chapter 1 example"
-  url: "https://github.com/habuma/spring-ai-in-action-examples.git?subpath=ch01-ask"
+  url: "https://github.com/habuma/spring-ai-in-action-examples?subPath=ch01-ask"
   tags:
   - "java-21"
   - "boot-3.2.x"
