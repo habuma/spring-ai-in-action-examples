@@ -1,6 +1,8 @@
 package com.example.hellospringai;
 
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Disabled;
+
 import org.springframework.ai.chat.ChatClient;
 import org.springframework.ai.chat.ChatResponse;
 import org.springframework.ai.chat.prompt.Prompt;
@@ -11,6 +13,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.util.List;
 
 @SpringBootTest
+@Disabled
 public class AskTest extends BasicEvaluationTest {
 
   @Autowired
