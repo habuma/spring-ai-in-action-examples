@@ -1,6 +1,6 @@
 # Spring AI in Action Examples
 
-This repository holds example code from _Spring AI in Action_, by Craig Walls.
+This repository holds example code from _Spring AI in Action_, by Craig Walls (to be published in 2024).
 
 The repository also holds a project catalog for the [Spring CLI](https://spring.io/projects/spring-cli). Therefore, you can either clone the repository in its entirety or you can use the Spring CLI to create Spring Boot projects based on the projects contained herein.
 
