@@ -7,19 +7,19 @@ The repository also holds a project catalog for the [Spring CLI](https://spring.
 If you choose to use the Spring CLI, you'll need to add this repository's project catalog. Use the `spring project-catalog add` command like this:
 
 ```
-% spring project-catalog add spring-ai-in-action-examples https://github.com/habuma/spring-ai-in-action-examples
+spring project-catalog add spring-ai-in-action-examples https://github.com/habuma/spring-ai-in-action-examples
 ```
 
 Once you've added the project catalog, you should see these projects when getting a list of projects:
 
 ```
-% spring project list
+spring project list
 ```
 
 Then, you can use `spring boot new` to create a new project based on any of the projects in this repository. For example, to create a project based on chapter 1's example:
 
 ```
-% spring boot new spring-ai-ask ch01-ask com.example.ai
+spring boot new spring-ai-ask ch01-ask com.example.ai
 ```
 
 Happy AI'ing!
